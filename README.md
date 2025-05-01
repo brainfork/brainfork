@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hey, I’m Kaleb 👋
 
-**I'm Kaleb**.  As a **Web Software Developer**, I collaborate with teams to deliver web solutions for clients across various industries. With over 15 years of web design and development experience, I have a deep understanding of the technical and aesthetic aspects of creating engaging and user-friendly websites.
+I work on backend systems that connect content, logic, and long-term structure.  
+Most of my projects involve CMS architecture, API integration, and tools that improve visibility, maintainability, and team workflows.
 
-I specialize in full-stack WordPress development, leveraging my skills and knowledge to meet the client's needs and expectations, using agile project management methodologies and best practices. I also have a strong design background, having graduated with honors in web development and graphic design. I am passionate about improving the user experience, and always seek to learn new technologies and innovations. My customer-centric approach, developed through years in the service industry, enables me to communicate effectively and build lasting relationships.
+### 🧱 Current projects:
+- **Backbend Dashboard**: a modular WordPress system for managing clients, projects, and sites, with supporting tools for visibility, automation, and performance tracking  
+- **Spreadsheet-to-Web Budget Tool**: translating a personal finance system into a maintainable CRUD web app (in development)  
+- **gay.toronto Discord**: automation, verification, and moderation systems for a regional LGBTQ+ community server  
+
+I focus on systems that stay useful - ones that don’t collapse under edge cases, shifting needs, or long-term complexity.
+
+### 🧩 Outside of work:
+I’m drawn to structured creativity - collaborative worldbuilding, system-driven games like *Factorio*, and media that’s a little weird but built to make sense - stories with emotional weight, hidden logic, and something worth unpacking.
+
+🛠️ [kaleb.codes](https://kaleb.codes) · [LinkedIn](https://linkedin.com/in/kaleb-j-barker)
