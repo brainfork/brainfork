@@ -1,0 +1,26 @@
+name: Latest posts from kaleb.codes
+
+on:
+  schedule:
+    - cron: "17 11 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # Pinned to the 1.9.7 release commit.
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b
+        with:
+          feed_list: "https://kaleb.codes/rss.xml"
+          max_post_count: 5
+          # The feed carries blog and wiki entries; the README lists blog posts only.
+          # Titles arrive as "[blog/essay] · Title"; keep the title.
+          item_exec: "if (!(post.categories || []).includes('blog')) { post = null; } else { post.title = post.title.replace(/^\\[[^\\]]*\\] · /, ''); }"
+          template: "- [$title]($url) · $date $newline"
+          date_format: "mmm yyyy"
+          commit_message: "Update latest posts from kaleb.codes"
