@@ -11,11 +11,10 @@ I build the layer between complex systems and the people who have to operate the
 I’m drawn to structured creativity- collaborative worldbuilding, system-driven games like *Factorio*, and media that’s a little weird but built to make sense- stories with emotional weight, hidden logic, and something worth unpacking.
 
 ### ✍️ Latest from kaleb.codes
-<!-- BLOG-POST-LIST:START -->
-- [Inside gay.toronto](https://kaleb.codes/blog/inside-gay-toronto) · Jun 2025
-- [Repeat, Then Reshape](https://kaleb.codes/blog/repeat-then-reshape) · Jun 2025
-- [A Strange Return](https://kaleb.codes/blog/strange-return) · Jun 2025
-- [Bringing the System Online](https://kaleb.codes/blog/bringing-the-system-online) · Jun 2025
+<!-- BLOG-POST-LIST:START -->- [Inside gay.toronto](https://kaleb.codes/blog/inside-gay-toronto) · Jun 2025 
+- [Repeat, Then Reshape](https://kaleb.codes/blog/repeat-then-reshape) · Jun 2025 
+- [A Strange Return](https://kaleb.codes/blog/strange-return) · Jun 2025 
+- [Bringing the System Online](https://kaleb.codes/blog/bringing-the-system-online) · Jun 2025 
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ [kaleb.codes](https://kaleb.codes) · [LinkedIn](https://linkedin.com/in/kaleb-j-barker)
